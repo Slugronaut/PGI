@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 166f30a4ef57c174699af49e2456281f
+timeCreated: 1440920327
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Overlay: {instanceID: 0}
+  - DefaultSocketIcon: {fileID: 21300000, guid: 3c66dfdc5bba2c849af51f2f06618370,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &169764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 498156}
+  - component: {fileID: 11426798}
+  m_Layer: 0
+  m_Name: BuiltinResources
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &498156
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11426798
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f926e47820bb4a1468b3236da3c34b88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Resources:
+  - {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10906, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10900, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10914, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10912, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10916, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10101, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 101, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10800, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10765, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10766, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10767, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10768, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10764, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10761, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10762, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10763, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10760, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10751, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15200, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15201, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.size
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[0]
+      value: 
+      objectReference: {fileID: 10101, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[1]
+      value: 
+      objectReference: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[2]
+      value: 
+      objectReference: {fileID: 101, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[3]
+      value: 
+      objectReference: {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[4]
+      value: 
+      objectReference: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[5]
+      value: 
+      objectReference: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[6]
+      value: 
+      objectReference: {fileID: 10800, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[7]
+      value: 
+      objectReference: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[8]
+      value: 
+      objectReference: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[9]
+      value: 
+      objectReference: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[10]
+      value: 
+      objectReference: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[11]
+      value: 
+      objectReference: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Shaders.Array.data[12]
+      value: 
+      objectReference: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Materials.Array.data[5]
+      value: 
+      objectReference: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Textures.Array.data[0]
+      value: 
+      objectReference: {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[0]
+      value: 
+      objectReference: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[1]
+      value: 
+      objectReference: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[2]
+      value: 
+      objectReference: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[3]
+      value: 
+      objectReference: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[4]
+      value: 
+      objectReference: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[5]
+      value: 
+      objectReference: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[6]
+      value: 
+      objectReference: {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[7]
+      value: 
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[8]
+      value: 
+      objectReference: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[9]
+      value: 
+      objectReference: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[10]
+      value: 
+      objectReference: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[11]
+      value: 
+      objectReference: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[12]
+      value: 
+      objectReference: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[13]
+      value: 
+      objectReference: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[14]
+      value: 
+      objectReference: {fileID: 10906, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[15]
+      value: 
+      objectReference: {fileID: 10900, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[16]
+      value: 
+      objectReference: {fileID: 10914, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[17]
+      value: 
+      objectReference: {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[18]
+      value: 
+      objectReference: {fileID: 10912, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[19]
+      value: 
+      objectReference: {fileID: 10916, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[20]
+      value: 
+      objectReference: {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[21]
+      value: 
+      objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[22]
+      value: 
+      objectReference: {fileID: 10101, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[23]
+      value: 
+      objectReference: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[24]
+      value: 
+      objectReference: {fileID: 101, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[25]
+      value: 
+      objectReference: {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[26]
+      value: 
+      objectReference: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[27]
+      value: 
+      objectReference: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[28]
+      value: 
+      objectReference: {fileID: 10800, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[29]
+      value: 
+      objectReference: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[30]
+      value: 
+      objectReference: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[31]
+      value: 
+      objectReference: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[32]
+      value: 
+      objectReference: {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[33]
+      value: 
+      objectReference: {fileID: 10765, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[34]
+      value: 
+      objectReference: {fileID: 10766, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[35]
+      value: 
+      objectReference: {fileID: 10767, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[36]
+      value: 
+      objectReference: {fileID: 10768, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[37]
+      value: 
+      objectReference: {fileID: 10764, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[38]
+      value: 
+      objectReference: {fileID: 10761, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[39]
+      value: 
+      objectReference: {fileID: 10762, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[40]
+      value: 
+      objectReference: {fileID: 10763, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[41]
+      value: 
+      objectReference: {fileID: 10760, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[42]
+      value: 
+      objectReference: {fileID: 10751, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[43]
+      value: 
+      objectReference: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[44]
+      value: 
+      objectReference: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[45]
+      value: 
+      objectReference: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[46]
+      value: 
+      objectReference: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[47]
+      value: 
+      objectReference: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[48]
+      value: 
+      objectReference: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[49]
+      value: 
+      objectReference: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[50]
+      value: 
+      objectReference: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[51]
+      value: 
+      objectReference: {fileID: 15200, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[52]
+      value: 
+      objectReference: {fileID: 15201, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 0}
+      propertyPath: Resources.Array.data[53]
+      value: 
+      objectReference: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 169764}
+  m_IsPrefabParent: 1

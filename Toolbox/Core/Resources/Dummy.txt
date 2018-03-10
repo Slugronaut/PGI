@@ -1,0 +1,1 @@
+This is here so that Unity will include this folder with the package.

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 69a250e55f6bc4140beb746cab1f2a41
+labels:
+- Inventory
+- UI
+- Grid
+- Gridbased
+- Grid-based
+- Diablo
+- Diablo2
+- DiabloII
+- multi-cell
+- multicellitems
+timeCreated: 1430687965
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

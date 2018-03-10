@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8e361870da2432f4ca2ad71b0bc0959e
+labels:
+- UI
+- Inventory
+- Grid
+- Gridbased
+- Grid-based
+- Diablo
+- Diablo2
+- DiabloII
+- multi-cell
+- multicellitems
+timeCreated: 1430988470
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Model: {instanceID: 0}
+  - SlotPrefab: {fileID: 138678, guid: 52baa6aaa4430944a91618eeeced60fd, type: 2}
+  - DragIconPrefab: {fileID: 11466308, guid: 040bb7645461b5945bfe0e9d23b44cc8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

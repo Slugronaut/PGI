@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: b6edaad020275074a88f1205af78f63c
+labels:
+- Diablo
+- Diablo2
+- DiabloII
+- Grid
+- Grid-based
+- Gridbased
+- Inventory
+- PGI
+- UI
+- gridbased
+- gridinventory
+- inventory
+- multi-cell
+- multicellitems
+- powergrid
+- powergridinventory
+timeCreated: 1441062002
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
